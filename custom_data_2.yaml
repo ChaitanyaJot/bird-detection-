@@ -1,0 +1,12 @@
+
+
+
+train: ../train_1/images/train/
+val: ../train_1/images/val/
+test:  
+
+# Classes
+nc: 1  # number of classes
+names: ['chaitanya']
+
+
